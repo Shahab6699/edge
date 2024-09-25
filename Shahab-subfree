@@ -1,0 +1,14 @@
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#%E8%8A%82%E7%82%B9%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B%2Fguide+https%3A%2F%2Ft.me%2Fedtunnel%2F7462
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#Channel+https%3A%2F%2Ft.me%2Fedtunnel+anycast
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@162.159.195.243:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#KR-Seoul-ICN+1
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#KR-Seoul-ICN+2
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#KR-Seoul-ICN+4
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#KR-Seoul-ICN+5
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#KR-Singapore-SIN+6
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#JP-Singapore-SIN+7
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#US-San+Jose-SJC+8
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@141.147.13.116:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#DE-Frankfurt-FRA+9
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#NL-Frankfurt-FRA+11
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#NL-Frankfurt-FRA+12
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#CA-Toronto-YYZ+13
+vless://a5bb0cfc-b7ab-48d1-93f1-e1abfb60fc13@zula.ir:443?path=%2F&security=tls&encryption=none&host=tuneli.mwfpcw.workers.dev&fp=random&type=ws&sni=tuneli.mwfpcw.workers.dev#NL-Frankfurt-FRA+14
